@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # Virtual school
+Super Admin para loguearse :
+correo:fahumada87@gmail.com o fahumada@gmail.com
+contraseña:NuevaContraseña@01
 
 ### Ambiente de prueba:
 - node 8.18.0
